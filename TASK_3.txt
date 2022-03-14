@@ -1,0 +1,9 @@
+14 Leaving	
+14 Breakfast	
+14 Sleeping
+11 Snack	
+51 Grooming	
+14 Showering	
+77 Spare_Time/TV
+44 Toileting	
+9 Lunch
